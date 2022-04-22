@@ -1,5 +1,5 @@
 Year,19A,19B,20A,20B,20C,20D,20E(EU1),20F,20G,20H(Beta,V2),20I(Alpha,V1),20J(Gamma,V3),21A(Delta),21B(Kappa),21C(Epsilon),21D(Eta),21F(Lota),21G(Lambda),21I(Delta),21J(Delta),21M(Omicron)
-2019,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
-2020,50,38,150,153,70,32,13,15,13,1,6,1,null,null,1,null,null,null,1,null,null
+2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,50,38,150,153,70,32,13,15,13,1,6,1,0,0,1,0,0,0,1,0,0
 2021,53,41,180,187,73,39,19,15,27,20,114,30,94,1,12,7,3,19,131,1799,123
 2022,53,41,180,187,73,39,19,15,27,20,114,30,95,1,12,7,3,19,131,1800,133
